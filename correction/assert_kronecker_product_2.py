@@ -1,0 +1,3 @@
+from evaluating_code import evaluating_kronecker_product_2
+
+assert evaluating_kronecker_product_2()
